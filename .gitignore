@@ -3,3 +3,5 @@ node_modules
 Dockerfile
 docker-compose.yml
 *.njsproj
+*.suo
+vs-edit/NodejsApp1.sln
